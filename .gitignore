@@ -1,14 +1,22 @@
 native_base_study/node_modules/**/*
 native_base_study/.expo/*
 native_base_study/npm-debug.*
+native_base_study/web-build/
+native_base_study/web-report/
+
+react_navigation_study/node_modules/**/*
+react_navigation_study/.expo/*
+react_navigation_study/npm-debug.*
+react_navigation_study/web-build
+react_navigation_study/web-report
+
 *.jks
 *.p8
 *.p12
 *.key
 *.mobileprovision
 *.orig.*
-native_base_study/web-build/
-native_base_study/web-report/
+
 
 # macOS
 .DS_Store
