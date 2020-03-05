@@ -10,6 +10,12 @@ react_navigation_study/npm-debug.*
 react_navigation_study/web-build
 react_navigation_study/web-report
 
+redux_study/node_modules/**/*
+redux_study/.expo/*
+redux_study/npm-debug.*
+redux_study/web-build
+redux_study/web-report
+
 *.jks
 *.p8
 *.p12
